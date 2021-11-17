@@ -10,7 +10,7 @@ label {
 
 select {
     font-size: .9rem;
-    padding: 2px 5px;
+    padding: 3px 6px;
 }
 
 footer {
@@ -43,7 +43,7 @@ select.mySelect{
     background:#184848;
     color: #fff;
     margin: 0px 0px 0px 60px;
-    font-size: 22px;
+    font-size: 23px;
     width: 63%;
     text-align: center;
     /* align-items: center; */
